@@ -4595,12 +4595,12 @@ CONFIG_HAVE_MESA=y
 # libimobiledevice
 #
 # CONFIG_PACKAGE_libideviceactivation is not set
-# CONFIG_PACKAGE_libimobiledevice is not set
+CONFIG_PACKAGE_libimobiledevice=y
 # CONFIG_PACKAGE_libimobiledevice-glue is not set
 # CONFIG_PACKAGE_libirecovery is not set
 # CONFIG_PACKAGE_libplist is not set
 # CONFIG_PACKAGE_libtatsu is not set
-# CONFIG_PACKAGE_libusbmuxd is not set
+CONFIG_PACKAGE_libusbmuxd=y
 # end of libimobiledevice
 
 # CONFIG_PACKAGE_abseil-cpp is not set
